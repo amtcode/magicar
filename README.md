@@ -20,13 +20,13 @@ TextMeshPro gives you `isRightToLeftText`, but that just flips text—it doesn't
 ### Git
 Magicar is a UPM package. 
 **Window → Package Manager → + → Add package from git URL:**
-`https://github.com/abdulrahmanal-tayeb/magicar.git`
+`https://github.com/amtcode/magicar.git`
 
 Or just shove it in your `Packages/manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.amtcode.magicar": "https://github.com/abdulrahmanal-tayeb/magicar.git"
+    "com.amtcode.magicar": "https://github.com/amtcode/magicar.git"
   }
 }
 ```
