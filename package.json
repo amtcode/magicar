@@ -2,15 +2,24 @@
   "name": "com.amtcode.magicar",
   "version": "0.1.0",
   "displayName": "Magicar",
-  "description": "Shapes Arabic into contextual presentation forms and lays out multi-line RTL text correctly for TextMeshPro, which has no OpenType shaping engine of its own.",
+  "description": "Arabic text shaping and right-to-left (RTL) layout for Unity TextMeshPro. Converts base Arabic letters into correct contextual forms, handles Lam-Alef ligatures, mixed Arabic/Latin/number content, and multi-line RTL wrapping. Supports Arabic, Farsi, and Urdu UI text.",
   "unity": "6000.0",
   "keywords": [
     "arabic",
     "rtl",
+    "unity",
     "textmeshpro",
+    "right-to-left",
+    "tmp",
     "localization",
     "shaping",
-    "bidi"
+    "bidi",
+    "farsi",
+    "urdu",
+    "ui",
+    "text",
+    "font",
+    "unicode"
   ],
   "author": {
     "name": "AmtCode"

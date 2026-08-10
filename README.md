@@ -1,6 +1,10 @@
-# Magicar
+# Magicar — Arabic / RTL Text Shaping for Unity TextMeshPro
 
-**Arabic text shaping and RTL layout for Unity TextMeshPro.**
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+[![Unity](https://img.shields.io/badge/Unity-6%2B-black)](https://unity.com/)
+[![UPM](https://img.shields.io/badge/install-UPM%20git%20URL-orange)](#installation)
+
+**Arabic, Farsi, and Urdu text shaping and right-to-left (RTL) layout for Unity TextMeshPro.**
 
 From `ه ي ب ر ع ل ا` to `العربيه` **(because Unity won't do it for you)**.
 
