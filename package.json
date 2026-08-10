@@ -1,0 +1,21 @@
+{
+  "name": "com.amtcode.magicar",
+  "version": "0.1.0",
+  "displayName": "Magicar",
+  "description": "Shapes Arabic into contextual presentation forms and lays out multi-line RTL text correctly for TextMeshPro, which has no OpenType shaping engine of its own.",
+  "unity": "6000.0",
+  "keywords": [
+    "arabic",
+    "rtl",
+    "textmeshpro",
+    "localization",
+    "shaping",
+    "bidi"
+  ],
+  "author": {
+    "name": "AmtCode"
+  },
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  }
+}
