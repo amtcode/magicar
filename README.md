@@ -12,6 +12,8 @@ TextMeshPro gives you `isRightToLeftText`, but that just flips text—it doesn't
 
 > **Status:** v0.1 — Production-tested, still a young API.
 
+![Magicar in action — Arabic text rendered correctly in a Unity game](image.png)
+
 ## Requirements
 
 - Unity 6+
